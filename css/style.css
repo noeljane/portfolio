@@ -56,3 +56,13 @@ footer.page-footer {
   margin: 0;
 }
 
+#profile-photo {
+  float: left;
+  padding-right: 20px;
+}
+
+#bio {
+  padding-bottom: 300px;
+  margin: 20px;
+}
+
